@@ -1,0 +1,3 @@
+config.h
+*.ino.bootloader.bin
+*.ino.partitions.bin
